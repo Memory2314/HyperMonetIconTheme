@@ -32,12 +32,12 @@ from PIL import Image, ImageColor
 # 通常浅色模式下，FG_COLOR为深色，BG_COLOR为浅色；深色模式下，FG_COLOR为浅色，BG_COLOR为深色
 
 # 深色主题 蓝色
-FG_COLOR = "#d1e2fc"
-BG_COLOR = "#1c232b"
+# FG_COLOR = "#d1e2fc"
+# BG_COLOR = "#1e222e"
 
 # 浅色主题 蓝色
-# FG_COLOR = "#011c31"
-# BG_COLOR = "#e8ecf7"
+FG_COLOR = "#ade2ff"
+BG_COLOR = "#e8ecf7"
 
 # 深色主题 红色
 # FG_COLOR = "#fcdbcf"
